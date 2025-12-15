@@ -6,9 +6,11 @@ Bu proje, modern yazılım mühendisliği prensipleri ve **Tasarım Desenleri (D
 
 ## 👥 Proje Ekibi
 
-* **Ertuğrul Öztürk**
-* **Kerem Can Kuru**
-* **Abdullah Baltürk**
+## Geliştiriciler
+Proje sahiplerine ulaşmak için isimlere tıklayabilirsiniz:
+- 👨‍💻 [Ertuğrul](https://github.com/1230505055)
+- 👨‍💻 [Ertuğrul](https://github.com/1230505029)
+- 👨‍💻 [Ertuğrul](https://github.com/1230505025)
 
 ## 🏗️ Kullanılan Teknolojiler ve Kütüphaneler
 
