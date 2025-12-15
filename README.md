@@ -8,9 +8,9 @@ Bu proje, modern yazılım mühendisliği prensipleri ve **Tasarım Desenleri (D
 
 ## Geliştiriciler
 Proje sahiplerine ulaşmak için isimlere tıklayabilirsiniz:
-- 👨‍💻 [Ertuğrul ÖZTÜRK](https://github.com/1230505055)
-- 👨‍💻 [Abdullah BALTÜRK](https://github.com/1230505029)
-- 👨‍💻 [Kerem Can KURU](https://github.com/1230505025)
+- [Ertuğrul ÖZTÜRK](https://github.com/1230505055)
+- [Abdullah BALTÜRK](https://github.com/1230505029)
+- [Kerem Can KURU](https://github.com/1230505025)
 
 ## 🏗️ Kullanılan Teknolojiler ve Kütüphaneler
 
