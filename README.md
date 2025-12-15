@@ -1,4 +1,4 @@
-# 🏢 Yurt Yönetim Sistemi (DormLife)
+# 🏢 Yurt Yönetim Sistemi (KYKLife)
 
 **Yazılım Mimarisi ve Tasarımı Dersi Dönem Projesi**
 
