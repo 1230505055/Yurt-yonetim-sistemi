@@ -88,6 +88,6 @@ Sistemi test etmek için veritabanına manuel olarak veya kod üzerinden aşağ�
 * **Rol:** `STAFF`
 
 **Öğrenci (Student):**
-* **Kullanıcı Adı:** `ahmet`
+* **Kullanıcı Adı:** `erto`
 * **Şifre:** `123`
 * **Rol:** `STUDENT`
